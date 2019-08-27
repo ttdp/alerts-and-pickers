@@ -5,6 +5,8 @@
 *.DS_Store
 .AppleDouble
 .LSOverride
+xcuserdata
+xcshareddata
 
 # Icon must end with two \r
 Icon
